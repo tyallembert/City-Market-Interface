@@ -1,2 +1,2 @@
-export { default as top } from './top/top'
-export { default as footer } from './footer/footer'
+export { default as Top } from './top/top'
+export { default as Footer } from './footer/footer'
